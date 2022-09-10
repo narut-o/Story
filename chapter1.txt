@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the best story and this is the worst story and it is about extraterrestrials 
+=======
+This is the best story and this is the worst story and it has aliens
+>>>>>>> alien-plot
